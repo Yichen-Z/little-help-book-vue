@@ -1,4 +1,4 @@
-# draft-site
+# Little Help Book Draft Vue Site
 
 This is an attempt to put together existing templates for the Little Help Book using the Vue framework.
 
