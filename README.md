@@ -14,6 +14,16 @@ Views and their parts:
 * Subcategory
 * Terms
 
+### Airtable
+
+Order field has been removed
+We may want a read-only account's key for general access (and the other is for admin access)
+We may need a development database to manipulate
+
+### Maps
+
+If Airtable does not provide a lat/long, or if the lat/long appears as [0, 0], that means NO marker on the map.
+
 ## Project setup
 
 First, download any dependencies by running this command in the terminal:
